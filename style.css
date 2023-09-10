@@ -14,12 +14,9 @@ h4 {
 	text-align: center;
 }
 
-
 .container {
     display: flex;
     flex-direction: column;
-	margin-top: 50px;
-
     justify-content: center;
     align-items: center;
 }
@@ -31,7 +28,6 @@ h4 {
     border: 5px solid #ffffff;
 }
 
-
 @media (max-width: 680px) {
 	body {
 		
@@ -42,7 +38,6 @@ h4 {
     .container{
         margin-top: 20px;
     }
-
 
 	img {
 		width: 280px;
